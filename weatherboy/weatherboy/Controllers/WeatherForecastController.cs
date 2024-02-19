@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace weatherboy.Controllers
 {
@@ -6,10 +7,11 @@ namespace weatherboy.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        static List<WeatherForecast> list = new List<WeatherForecast>();
         private static readonly string[] Summaries = new[]
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
+        };
 
         private readonly ILogger<WeatherForecastController> _logger;
 
@@ -29,5 +31,19 @@ namespace weatherboy.Controllers
             })
             .ToArray();
         }
+        [HttpPost(Name = "PostWeatherForecast")]
+        public string Post()
+        {
+
+
+            return "post method";
+        }
+
+        [HttpGet("summaries", Name = "GetSummaries")]
+        public IEnumerable<string> GetSummaries()
+        {
+            return Summaries;
+        }
     }
+
 }
