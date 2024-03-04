@@ -21,7 +21,7 @@ namespace weatherboy.Controllers
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
-        public IEnumerable<WeatherForecast> Get()
+        public IEnumerable<WeatherForecast> Get(int range = 5)
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {

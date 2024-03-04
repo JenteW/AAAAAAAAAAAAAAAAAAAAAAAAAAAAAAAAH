@@ -30,3 +30,4 @@ C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAA
 C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.pdb
 C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.genruntimeconfig.cache
 C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\ref\weatherboy.dll
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\LiteDB.dll
