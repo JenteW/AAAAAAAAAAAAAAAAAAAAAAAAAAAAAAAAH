@@ -31,3 +31,36 @@ C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAA
 C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.genruntimeconfig.cache
 C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\ref\weatherboy.dll
 C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\LiteDB.dll
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\appsettings.json
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\weatherboy.exe
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\weatherboy.deps.json
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\weatherboy.runtimeconfig.json
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\weatherboy.dll
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\weatherboy.pdb
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\LiteDB.dll
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\staticwebassets\msbuild.weatherboy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\staticwebassets\msbuild.build.weatherboy.props
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.weatherboy.props
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.weatherboy.props
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\scopedcss\bundle\weatherboy.styles.css
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.dll
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\refint\weatherboy.dll
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.pdb
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\weatherboy.genruntimeconfig.cache
+C:\Users\Gebruiker\Documents\IMS_1\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\weatherboy\weatherboy\obj\Debug\net6.0\ref\weatherboy.dll

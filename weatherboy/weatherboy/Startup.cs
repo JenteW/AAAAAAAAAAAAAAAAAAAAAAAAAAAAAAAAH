@@ -17,6 +17,7 @@ namespace weatherboy
         }
         public void ConfigureServices(IServiceCollection services)
         {
+
             services.AddSingleton<IAnonymousEurosongDataContext, AnonymousEurosongDataList>();
             services.AddControllers();
         }

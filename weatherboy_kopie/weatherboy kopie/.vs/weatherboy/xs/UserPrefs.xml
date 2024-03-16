@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E558B14C-99E6-40C9-9866-5DA10EDF1245}|HTTPS">
+  <MonoDevelop.Ide.Workbench ActiveDocument="weatherboy/Data/AnonymousEurosongDataList.cs">
+    <Files>
+      <File FileName="weatherboy/Startup.cs" Line="15" Column="1" />
+      <File FileName="weatherboy/Program.cs" Line="29" Column="16" />
+      <File FileName="weatherboy/BasicAuthenticationHandler.cs" Line="56" Column="2" />
+      <File FileName="weatherboy/Controllers/SongsController.cs" Line="42" Column="1" />
+      <File FileName="weatherboy/Controllers/testing.cs" Line="1" Column="1" />
+      <File FileName="weatherboy/Data/AnonymousEurosongDatabase.cs" Line="18" Column="31" />
+      <File FileName="weatherboy/Data/AnonymousEurosongDataList.cs" Line="5" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="weatherboy" expanded="True">
+            <Node name="weatherboy" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="AnonymousEurosongDataList.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.weatherboy PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
