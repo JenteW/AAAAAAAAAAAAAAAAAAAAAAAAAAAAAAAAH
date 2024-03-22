@@ -1,0 +1,60 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\LiteDB.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\staticwebassets\Eurosong.StaticWebAssets.Manifest.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\staticwebassets\Eurosong.StaticWebAssets.xml
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\scopedcss\bundle\Eurosong.styles.css
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.RazorTargetAssemblyInfo.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\MeMyselfAndI\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.genruntimeconfig.cache
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.StaticWebAssets.xml
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.exe
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.deps.json
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.runtimeconfig.json
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.runtimeconfig.dev.json
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.dll
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Eurosong.pdb
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\LiteDB.dll
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.csproj.AssemblyReference.cache
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.AssemblyInfoInputs.cache
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.AssemblyInfo.cs
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.csproj.CoreCompileInputs.cache
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\staticwebassets\Eurosong.StaticWebAssets.Manifest.cache
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\staticwebassets\Eurosong.StaticWebAssets.Pack.cache
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Eurosong.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Eurosong.props
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Eurosong.props
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Eurosong.props
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.RazorTargetAssemblyInfo.cache
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.csproj.CopyComplete
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.dll
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.pdb
+C:\Users\miste\OneDrive - Thomas More\school_work\2_IMS\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\stuff\Eurosong (1)\Eurosong\obj\Debug\netcoreapp3.1\Eurosong.genruntimeconfig.cache

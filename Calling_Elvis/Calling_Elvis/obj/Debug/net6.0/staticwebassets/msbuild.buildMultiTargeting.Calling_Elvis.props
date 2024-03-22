@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Calling_Elvis.props" />
+</Project>

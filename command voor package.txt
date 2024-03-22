@@ -1,0 +1,6 @@
+nieuw project aanmaken
+
+
+dotnet add package RestSharp -- version 110.2.0
+
+dotnet add package Newtonsoft.Json
